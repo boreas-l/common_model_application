@@ -1,0 +1,4 @@
+./datasets/cat_dog_cls/images/cat.4.jpg	0
+./datasets/cat_dog_cls/images/cat.5.jpg	0
+./datasets/cat_dog_cls/images/dog.4.jpg	1
+./datasets/cat_dog_cls/images/dog.5.jpg	1
